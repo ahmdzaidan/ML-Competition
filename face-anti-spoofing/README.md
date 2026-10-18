@@ -51,7 +51,7 @@ Our exploratory phase inspected the dataset across class proportions, photograph
 
 ### 2. Class Distribution
 ![Class Distribution](figures/class_distribution.png)
-*Class frequency across training samples showing non-uniform class counts, necessitating stratified validation splitting and class-sensitive loss weighting.*
+*Class frequency across training samples showing non-uniform class counts, necessitating stratified validation splitting and class-sensitive loss weighting..*
 
 ---
 
